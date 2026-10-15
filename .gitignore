@@ -1,0 +1,19 @@
+# Compiled class files
+bin/
+*.class
+
+# Archives and build artifacts
+*.zip
+*.jar
+*.war
+*.ear
+
+# IDE and metadata
+.settings/
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
